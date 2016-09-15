@@ -1,0 +1,143 @@
+
+
+03:11:21.837917 doing powers sum...
+03:11:25.838523 FINISHED: powers sum...
+03:11:25.838602  COMPUTING...
+03:11:33.781157  END!
+
+{'Pubs': 974691,
+ 'Pubs+Aid': 974691,
+ 'cosine_sim [s]': 20.03557,
+ 'edges': 2260738,
+ 'nodes': 595049}
+
+03:12:36.617478 doing powers sum...
+03:12:40.475433 FINISHED: powers sum...
+03:12:40.475504  COMPUTING...
+03:12:48.133849  END!
+
+{'Pubs': 974691,
+ 'Pubs+Aid': 974691,
+ 'cosine_sim [s]': 19.17464,
+ 'edges': 2260738,
+ 'nodes': 595049}
+
+
+
+
+
+03:14:06.565792 doing powers sum...
+03:14:10.420619 FINISHED: powers sum...
+03:14:10.724943 listing Edges...
+03:14:14.978799 |E| = 2402837
+03:14:14.978877  COMPUTING...
+03:14:24.871784  END! 	 results: 8
+
+{'Pubs': 974691,
+ 'Pubs+Aid': 974691,
+ 'cosine_sim [s]': 23.50191,
+ 'edges': 2260732,
+ 'nodes': 595049}
+
+
+
+
+03:16:59.710077 doing powers sum...
+03:17:04.546216 FINISHED: powers sum...
+03:17:04.546279  COMPUTING...
+03:17:14.313612  END!
+
+{'Pubs': 1255068,
+ 'Pubs+Aid': 1255068,
+ 'cosine_sim [s]': 25.51928,
+ 'edges': 2806064,
+ 'nodes': 687060}
+
+
+
+03:18:49.634657 doing powers sum...
+03:18:54.289931 FINISHED: powers sum...
+03:18:54.623339 listing Edges...
+03:19:01.115838 |E| = 2946824
+03:19:01.115917  COMPUTING...
+03:19:12.184961  END! 	 results: 8
+
+{'Pubs': 1255068,
+ 'Pubs+Aid': 1255068,
+ 'cosine_sim [s]': 30.71775,
+ 'edges': 2806058,
+ 'nodes': 687060}
+
+
+03:48:31.027882 doing powers sum...
+03:48:38.283274 FINISHED: powers sum...
+03:48:38.283343  COMPUTING...
+03:48:54.715546  END!
+
+{'Pubs': 2238999,
+ 'Pubs+Aid': 2238999,
+ 'cosine_sim [s]': 38.84999,
+ 'edges': 4452513,
+ 'nodes': 1009160}
+
+
+03:51:01.870237 doing powers sum...
+03:51:08.968970 FINISHED: powers sum...
+03:51:09.485675 listing Edges...
+03:51:20.046451 |E| = 4679602
+03:51:20.046531  COMPUTING...
+03:51:30.750239  END! 	 results: 8
+
+{'Pubs': 2238999,
+ 'Pubs+Aid': 2238999,
+ 'cosine_sim [s]': 38.83277,
+ 'edges': 4452506,
+ 'nodes': 1009160}
+
+
+
+
+
+
+11:13:56.452801 doing powers sum...
+11:14:03.658147 FINISHED: powers sum...
+11:14:03.658227  COMPUTING...
+11:14:19.952873  END!
+
+{'Pubs': 2238999,
+ 'Pubs+Aid': 2238999,
+ 'cosine_sim [s]': 38.42302,
+ 'edges': 4452513,
+ 'nodes': 1009160}
+
+
+
+
+
+	WITH G.edges()[:] = []
+11:17:22.014055 doing powers sum...
+11:17:29.233354 FINISHED: powers sum...
+11:17:29.752326 |E| = 4679602
+11:18:00.489457  END! 	 results: 8
+
+{'Pubs': 2238999,
+ 'Pubs+Aid': 2238999,
+ 'cosine_sim [s]': 49.04328,
+ 'edges': 4452506,
+ 'nodes': 1009160}
+
+
+
+	WITH Edges = []
+11:21:51.502821 doing powers sum...
+11:21:58.874866 FINISHED: powers sum...
+11:21:59.375265 listing Edges...
+11:22:10.579499 |E| = 4679602
+11:22:10.579576  COMPUTING...
+11:22:21.196206  END! 	 results: 8
+
+{'Pubs': 2238999,
+ 'Pubs+Aid': 2238999,
+ 'cosine_sim [s]': 39.73083,
+ 'edges': 4452506,
+ 'nodes': 1009160}
